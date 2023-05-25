@@ -9,3 +9,4 @@ const formSchema = yup.object().shape({
 
 
 })
+export default formSchema
